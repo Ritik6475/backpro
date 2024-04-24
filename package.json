@@ -1,0 +1,15 @@
+{
+  "name": "backpro",
+  "version": "1.0.0",
+  "description": "a backend project to learn all concepts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JS",
+    "bp"
+  ],
+  "author": "Ritik",
+  "license": "ISC"
+}
